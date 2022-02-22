@@ -197,10 +197,6 @@ etc…
 10&nbsp;&nbsp;20&nbsp;&nbsp;50&nbsp;&nbsp;100
 
 
-
-
-
-
 17. Write a program that displays the following triangle of numbers using nested for loops
 
 1
