@@ -189,29 +189,29 @@ etc…
 
 16. Display the following Table of numbers writing only one Console.WriteLine within a for loop.  Use x as the counter variable inside the for loop, which will loop from 1 to 10.
 
-**x&nbsp;&nbsp;2x&nbsp;&nbsp;5x&nbsp;&nbsp;10x**
-1&nbsp;&nbsp;2&nbsp;&nbsp;5&nbsp;&nbsp;10
-2&nbsp;&nbsp;4&nbsp;&nbsp;10&nbsp;&nbsp;20
-3&nbsp;&nbsp;6&nbsp;&nbsp;15&nbsp;&nbsp;30
-…
+**x&nbsp;&nbsp;2x&nbsp;&nbsp;5x&nbsp;&nbsp;10x**<br>
+1&nbsp;&nbsp;2&nbsp;&nbsp;5&nbsp;&nbsp;10<br>
+2&nbsp;&nbsp;4&nbsp;&nbsp;10&nbsp;&nbsp;20<br>
+3&nbsp;&nbsp;6&nbsp;&nbsp;15&nbsp;&nbsp;30<br>
+…<br>
 10&nbsp;&nbsp;20&nbsp;&nbsp;50&nbsp;&nbsp;100
 
 
 17. Write a program that displays the following triangle of numbers using nested for loops
 
-1
-12
-123
-1234
-12345
+1<br>
+12<br>
+123<br>
+1234<br>
+12345<br>
 
 Then try this one
 
-1
-22
-333
-4444
-55555
+1<br>
+22<br>
+333<br>
+4444<br>
+55555<br>
 
 18. Write a Console program to accept X and Y coordinates from the user and then determine in which quadrant the coordinate point lies based on the diagram and example program below:
 
