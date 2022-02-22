@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConTasks1Through18", "ConTasks1Through18\ConTasks1Through18.csproj", "{4DE3204E-6683-4FB6-847F-587A1C78931F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DE3204E-6683-4FB6-847F-587A1C78931F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DE3204E-6683-4FB6-847F-587A1C78931F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DE3204E-6683-4FB6-847F-587A1C78931F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DE3204E-6683-4FB6-847F-587A1C78931F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9C6E64F-476C-48A0-A7CE-263E6A97D3FC}
+	EndGlobalSection
+EndGlobal
