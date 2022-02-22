@@ -111,10 +111,10 @@ Convert.ToInt32 or int.Parse
 4. Write a console application that displays 1 – 100 across the screen using a for loop.  Each number with a space and comma in between.  
    i.e:  1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, etc…
 
-5. Once the above is working try copying and pasting the for loop and amending it to display…
-   Line 1! 
-   Line 2! 
-   Line 3! 
+5. Once the above is working try copying and pasting the for loop and amending it to display…<br>
+   Line 1! <br>
+   Line 2! <br>
+   Line 3! <br>
    Line 4! etc… each on a new line.
 
 6. Then try to write another for loop to display the numbers 5 to 500 in multiples of five across the screen with a space in between only.  
@@ -123,14 +123,10 @@ Convert.ToInt32 or int.Parse
 7. Write a console application that asks the user to enter two numbers, num1 and num2, then swap the two variables and display back to the screen.
    (i.e.  test data:
 
-**Enter num1: 8** 
-
-**Enter num2: 5,** 
-
-*Expected output:*
-
-**num1 is 5**
-
+**Enter num1: 8** <br>
+**Enter num2: 5,** <br>
+*Expected output:*<br>
+**num1 is 5**<br>
 **num2 is 8)**
 
 
@@ -140,14 +136,10 @@ Convert.ToInt32 or int.Parse
 
 (i.e.  test data:
 
-**Enter number 1:  25**
-
-**Enter number 2:  78**
-
-**Enter number 3:  87**
-
-*Expected output:*
-
+**Enter number 1:  25**<br>
+**Enter number 2:  78**<br>
+**Enter number 3:  87**<br>
+*Expected output:*<br>
 **The largest is 87**
 
 NOTE:  Write your own code to work out which number is the largest.
@@ -158,9 +150,9 @@ NOTE:  Write your own code to work out which number is the largest.
 (i.e.  test data:
 
 **Enter a number between 1 & 12:  5**
-**5 x 1 = 5
-5 x 2 = 10 
-5 x 3 = 15** 
+**5 x 1 = 5<br>
+5 x 2 = 10 <br>
+5 x 3 = 15**
 
 etc…
 …
