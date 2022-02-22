@@ -34,8 +34,9 @@ Class
 
 Method (Main) 
 
-Variables (data types![](Aspose.Words.d12615f0-85f6-49b5-8e1f-95bf70882bc3.001.png)) 
+Variables (data types)
 
+![](Aspose.Words.d12615f0-85f6-49b5-8e1f-95bf70882bc3.001.png)
 
 **The most common data types you will use on this course are:**
 
